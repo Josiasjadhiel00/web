@@ -1,0 +1,333 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="Style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Politecnico Altagracia Lucas De Garcias</title>
+    <link rel="icon" href="imagenes/logo.ico">
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background-image: url('imagenes/background.jpeg'); 
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+        }
+        .navbar {
+            background-color: #1E2B50;
+            display: flex;
+            align-items: center;
+            padding: 10px 20px;
+            flex-wrap: wrap;
+        }
+        .logo {
+            color: white;
+            font-size: 18px;
+            font-weight: bold;
+            display: flex;
+            align-items: center;
+            margin-right: auto;
+        }
+        .logo img {
+            width: 50px;
+            margin-right: 10px;
+        }
+        .nav-links {
+            list-style: none;
+            display: flex;
+            margin: 0;
+            padding: 0;
+            flex-wrap: wrap;
+        }
+        .nav-links li {
+            margin: 0 15px;
+            position: relative;
+        }
+        .nav-links a {
+            color: white;
+            text-decoration: none;
+            font-size: 16px;
+            transition: color 0.3s ease;
+        }
+        .nav-links a:hover, .nav-links a:focus {
+            color: #FFD700; /* Color dorado al pasar el ratón */
+        }
+        .nav-links .dropdown {
+            display: none;
+            position: absolute;
+            background-color: #1E2B50;
+            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+            z-index: 1;
+            border-radius: 5px;
+            overflow: hidden;
+            list-style: none; /* Quitar los círculos */
+            padding: 0;
+            margin: 0;
+        }
+        .nav-links .dropdown a {
+            color: white;
+            padding: 12px 16px;
+            text-decoration: none;
+            display: block;
+            transition: background-color 0.3s ease, color 0.3s ease;
+        }
+        .nav-links .dropdown a:hover, .nav-links .dropdown a:focus {
+            background-color: #FFD700; /* Fondo dorado al pasar el ratón */
+            color: #1E2B50; /* Texto oscuro al pasar el ratón */
+        }
+        .nav-links li:hover .dropdown {
+            display: block;
+        }
+        .hero {
+            width: 100%;
+            height: 400px;
+            background-image: url('imagenes/imagendelcentro.jpg'); 
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            position: relative;
+        }
+        .card {
+            background: rgba(255, 255, 255, 0.8);
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            max-width: 800px;
+            width: 90%;
+            text-align: center;
+        }
+        .footer {
+            background-color: #1E2B50;
+            color: white;
+            padding: 20px 0;
+            text-align: center;
+        }
+        .footer-content {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+        .footer-logo {
+            display: flex;
+            align-items: center;
+        }
+        .footer-logo img {
+            width: 50px;
+            margin-right: 10px;
+        }
+        .footer-links {
+            list-style: none;
+            display: flex;
+            margin: 0;
+            padding: 0;
+        }
+        .footer-links li {
+            margin: 0 15px;
+        }
+        .footer-links a {
+            color: white;
+            text-decoration: none;
+            font-size: 16px;
+            transition: color 0.3s ease;
+        }
+        .footer-links a:hover, .footer-links a:focus {
+            color: #FFD700; /* Color dorado al pasar el ratón */
+        }
+        @media (max-width: 768px) {
+            .hero {
+                height: 300px;
+            }
+            .card {
+                width: 95%;
+                padding: 15px;
+            }
+            .nav-links li {
+                margin: 0 10px;
+            }
+            .nav-links a {
+                font-size: 14px;
+            }
+            .footer-content {
+                flex-direction: column;
+                align-items: center;
+            }
+            .footer-links {
+                flex-direction: column;
+                align-items: center;
+            }
+            .footer-links li {
+                margin: 5px 0;
+            }
+        }
+        @media (max-width: 480px) {
+            .hero {
+                height: 200px;
+            }
+            .card {
+                width: 100%;
+                padding: 10px;
+            }
+            .nav-links {
+                flex-direction: column;
+                align-items: center;
+            }
+            .nav-links li {
+                margin: 5px 0;
+            }
+            .nav-links a {
+                font-size: 12px;
+            }
+        }
+        /* Estilos para .card2, .card3 y .card4 */
+        .card2, .card3, .card4 {
+            max-width: 400px;
+            border-radius: 1rem;
+            background-color: #f8f9fa;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            border: 1px solid #ddd;
+            margin: 10px;
+        }
+
+        .card2 a, .card3 a, .card4 a {
+            text-decoration: none;
+        }
+
+        .card2 .content, .card3 .content, .card4 .content {
+            padding: 1.5rem;
+        }
+
+        .card2 .image, .card3 .image, .card4 .image {
+            object-fit: cover;
+            width: 100%;
+            height: 200px;
+            background-color: #e9ecef;
+        }
+
+        .card2 .title, .card3 .title, .card4 .title {
+            color: #343a40;
+            font-size: 1.25rem;
+            line-height: 1.75rem;
+            font-weight: 700;
+        }
+
+        .card2 .desc, .card3 .desc, .card4 .desc {
+            margin-top: 0.75rem;
+            color: #6c757d;
+            font-size: 1rem;
+            line-height: 1.5rem;
+        }
+
+        .card2 .action, .card3 .action, .card4 .action {
+            display: inline-flex;
+            margin-top: 1.25rem;
+            color: #ffffff;
+            font-size: 1rem;
+            line-height: 1.5rem;
+            font-weight: 600;
+            align-items: center;
+            gap: 0.5rem;
+            background-color: #007bff;
+            padding: 6px 12px;
+            border-radius: 5px;
+        }
+
+        .card2 .action span, .card3 .action span, .card4 .action span {
+            transition: .3s ease;
+        }
+
+        .card2 .action:hover span, .card3 .action:hover span, .card4 .action:hover span {
+            transform: translateX(6px);
+        }
+
+        .cards-container {
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+    </style>
+</head>
+<body>
+
+
+
+  
+        <nav class="navbar">
+            <div class="logo">
+                <img src="imagenes/logo-removebg-preview.png" alt="Logo"> Altagracia Lucas
+            </div>
+            <ul class="nav-links">
+                <li><a href="/Plitecnico altagracia lucas de garcias/pagina principal escolar.html">INICIO</a></li>
+                <li><a href="#">AREAS</a>
+                    <ul class="dropdown">
+                        <li><a href="/Plitecnico altagracia lucas de garcias/areas_tecnicas.html ">Educación Técnica</a></li>
+                        <li><a href="/Plitecnico altagracia lucas de garcias/mas_detalles.htm">Asesoría Académica</a></li>
+                    </ul>
+                </li>
+                <li><a href="#">ADMISIONES</a></li>
+                <li><a href="/Plitecnico altagracia lucas de garcias/actividades.html">EVENTOS Y NOTICIAS</a></li>
+                <li><a href="#">APRENDIZAJE</a></li>
+                <li>
+                    <a href="#">CONTACTOS</a>
+                    <ul class="dropdown">
+                        <li><a href="#">Correo</a></li>
+                        <li><a href="https://www.instagram.com/polit_altagracia_lucas_garcia?igsh=eGw2N3RicG05MHUx&utm_source=qr">Instagram</a></li>
+                        <li><a href="https://www.facebook.com/share/g/1BruiY3Fu4/?mibextid=wwXIfr">Facebock</a></li>
+                        <li><a href="#">Dirección</a></li>
+                    </ul>
+                </li>
+            </ul>
+        </nav>
+   
+
+
+
+    <div class="area_actividades">
+        <h2>Actividades que tuvimos en el mes de febrero del 2025</h2>
+
+        <div class="actividades_img">
+            <h2>Día Del Folklore Dóminicano</h2>
+            <p>Con orgullo y con empatía celebramos el dia del Folklore en nuestro líceo.</p>
+            <img src="/Plitecnico altagracia lucas de garcias/imagenes/folklore.jpeg" alt="">
+
+            <h2>Día Intelnacional Del Internet Seguro</h2>
+    <img src="imagenes/int-seguro.jpeg" alt="">
+    <img src="imagenes/redes_aul.jpeg" alt="">
+            
+    <p>Estubimos hablando sobre el internet seguro, el cual nos alluda anavegar en linea sin que alguien más tenga conexion con tus datos personales, tambien hablamos sobre el VPN la cual nos va a alludar a cambiar al momento de realizar nuestra cuenta la region para tener mayor privacidad con tu infotmacion personal, estuvimos tambien hablando sobre algunas situaciones que le pasan a muchos o afectan a muchos que son las imagenes que mandan con virus sin que nos demos cuenta esto se puede resolver o averigual al momento de resibir una x imagen de un numero desconocido realizando una pagina para detectar virus en imagenes</p>
+    <br>
+    <p>Algunos estudiantes estuvieron pasando por las aulas a no solo decir como proteger tu cuenta o tu dispositivo sino transmitir a los oyentes lo que pasa cuando no tenemos cuidado o precausion con nuestros datos privados.</p>
+    
+    <img src="imagenes/desinformacion.jpeg" alt="">
+    
+    <img src="imagenes/nti_redes1.jpeg" alt="">
+    
+    <div class="promo">
+        <h2>Promoción Estudiantil</h2>
+
+        <img src="imagenes/primo1.jpeg"  alt="">
+      
+    <img src="imagenes/promo3.jpeg" alt="">
+    
+
+
+
+    </div>
+    
+        </div>
+
+
+            <!-- contador de visitas-->
+    <div id="sfcxyahegpqws9x3e4cbxdtpxuyngccnknf"></div>
+    <script type="text/javascript" src="https://counter6.optistats.ovh/private/counter.js?c=xyahegpqws9x3e4cbxdtpxuyngccnknf&down=async" async></script>
+    <noscript><a href="https://www.contadorvisitasgratis.com" title="contador de visitantes"><img src="https://counter6.optistats.ovh/private/contadorvisitasgratis.php?c=xyahegpqws9x3e4cbxdtpxuyngccnknf" border="0" title="contador de visitantes" alt="contador de visitantes"></a></noscript>
+</body>
+</html>

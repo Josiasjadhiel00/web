@@ -1,0 +1,494 @@
+<html bbai-tooltip-injected="true" data-qb-installed="true">
+    <script type="text/javascript" async="" src="https://analytics.tiktok.com/i18n/pixel/static/identify_935b0d03.js"></script>
+    <script type="text/javascript" async="" src="https://analytics.tiktok.com/i18n/pixel/static/main.MTQyMDdhZmFmMA.js" data-id="C3SI0CO4C3S2QIOV7NI0"></script>
+    <script type="text/javascript" async="" src="https://analytics.tiktok.com/i18n/pixel/static/main.MTQyMDdhZmFmMA.js" data-id="CKA47TJC77U7REM9C0R0"></script>
+    <script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/destination?id=AW-1041825691&amp;l=dataLayer&amp;cx=c&amp;gtm=45je52q0v9123674316za200zb6319694&amp;tag_exp=101732279~101732281~102067808~102482433~102539968~102558064~102587591~102605417~102640600~102717422~102732003"></script>
+    <script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/destination?id=AW-1006927621&amp;l=dataLayer&amp;cx=c&amp;gtm=45je52q0v9123674316za200zb6319694&amp;tag_exp=101732279~101732281~102067808~102482433~102539968~102558064~102587591~102605417~102640600~102717422~102732003"></script>
+    <script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/destination?id=DC-4382365&amp;l=dataLayer&amp;cx=c&amp;gtm=45je52q0v9123674316za200zb6319694&amp;tag_exp=101732279~101732281~102067808~102482433~102539968~102558064~102587591~102605417~102640600~102717422~102732003"></script>
+    <script type="text/javascript" async="" src="https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=C3SI0CO4C3S2QIOV7NI0&amp;lib=ttq"></script><script src="https://s.yimg.com/wi/ytc.js" async=""></script><script type="text/javascript" async="" src="https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=CKA47TJC77U7REM9C0R0&amp;lib=ttq"></script>
+    <script src="https://connect.facebook.net/signals/config/704136006388169?v=2.9.185&amp;r=stable&amp;domain=es.wix.com&amp;hme=93c44828b638838a88daf3a14a90ff297f7fc4ade758f21de5500c9f17542765&amp;ex_m=70%2C122%2C107%2C111%2C61%2C4%2C100%2C69%2C16%2C97%2C89%2C51%2C54%2C173%2C176%2C188%2C184%2C185%2C187%2C29%2C101%2C53%2C77%2C186%2C168%2C171%2C181%2C182%2C189%2C132%2C41%2C194%2C191%2C192%2C34%2C144%2C15%2C50%2C198%2C197%2C134%2C18%2C40%2C1%2C43%2C65%2C66%2C67%2C71%2C93%2C17%2C14%2C96%2C92%2C91%2C108%2C52%2C110%2C39%2C109%2C30%2C94%2C26%2C169%2C172%2C141%2C86%2C56%2C84%2C33%2C73%2C0%2C95%2C32%2C28%2C82%2C83%2C88%2C47%2C46%2C87%2C37%2C11%2C12%2C13%2C6%2C7%2C25%2C22%2C23%2C57%2C62%2C64%2C75%2C102%2C27%2C76%2C9%2C8%2C80%2C48%2C21%2C104%2C103%2C105%2C98%2C10%2C20%2C3%2C38%2C74%2C19%2C5%2C90%2C81%2C44%2C35%2C85%2C2%2C36%2C63%2C42%2C106%2C45%2C79%2C68%2C112%2C60%2C59%2C31%2C99%2C58%2C55%2C49%2C78%2C72%2C24%2C113" async=""></script>
+    <script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="https://snap.licdn.com/li.lms-analytics/insight.min.js"></script><script type="text/javascript" async="" src="https://static.ads-twitter.com/uwt.js"></script><script type="text/javascript" async="" src="https://bat.bing.com/bat.js"></script>
+    <script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-46CXENL4NC&amp;l=dataLayer&amp;cx=c&amp;gtm=45He52q0v6319694za200&amp;tag_exp=101732279~101732281~102067808~102482433~102539968~102558064~102587591~102605417~102640600~102717421~102732003"></script>
+    <script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-MDD5C4"></script>
+    <script src="chrome-extension://eppiocemhmnlbhjplcgkofciiegomcon/content/location/location.js" id="eppiocemhmnlbhjplcgkofciiegomcon"></script><script src="chrome-extension://eppiocemhmnlbhjplcgkofciiegomcon/libs/extend-native-history-api.js"></script>
+    <script src="chrome-extension://eppiocemhmnlbhjplcgkofciiegomcon/libs/requests.js"></script>
+    <head>
+    <title>Escuela primaria plantilla web | WIX</title>
+    
+    <!-- BEGIN SENTRY -->
+    <script id="sentry">
+  (function(c,u,v,n,p,e,z,A,w){function k(a){if(!x){x=!0;var l=u.getElementsByTagName(v)[0],d=u.createElement(v);d.src=A;d.crossorigin="anonymous";d.addEventListener("load",function(){try{c[n]=r;c[p]=t;var b=c[e],d=b.init;b.init=function(a){for(var b in a)Object.prototype.hasOwnProperty.call(a,b)&&(w[b]=a[b]);d(w)};B(a,b)}catch(g){console.error(g)}});l.parentNode.insertBefore(d,l)}}function B(a,l){try{for(var d=m.data,b=0;b<a.length;b++)if("function"===typeof a[b])a[b]();var e=!1,g=c.__SENTRY__;"undefined"!==
+  typeof g&&g.hub&&g.hub.getClient()&&(e=!0);g=!1;for(b=0;b<d.length;b++)if(d[b].f){g=!0;var f=d[b];!1===e&&"init"!==f.f&&l.init();e=!0;l[f.f].apply(l,f.a)}!1===e&&!1===g&&l.init();var h=c[n],k=c[p];for(b=0;b<d.length;b++)d[b].e&&h?h.apply(c,d[b].e):d[b].p&&k&&k.apply(c,[d[b].p])}catch(C){console.error(C)}}for(var f=!0,y=!1,q=0;q<document.scripts.length;q++)if(-1<document.scripts[q].src.indexOf(z)){f="no"!==document.scripts[q].getAttribute("data-lazy");break}var x=!1,h=[],m=function(a){(a.e||a.p||a.f&&
+  -1<a.f.indexOf("capture")||a.f&&-1<a.f.indexOf("showReportDialog"))&&f&&k(h);m.data.push(a)};m.data=[];c[e]=c[e]||{};c[e].onLoad=function(a){h.push(a);f&&!y||k(h)};c[e].forceLoad=function(){y=!0;f&&setTimeout(function(){k(h)})};"init addBreadcrumb captureMessage captureException captureEvent configureScope withScope showReportDialog".split(" ").forEach(function(a){c[e][a]=function(){m({f:a,a:arguments})}});var r=c[n];c[n]=function(a,e,d,b,f){m({e:[].slice.call(arguments)});r&&r.apply(c,arguments)};
+  var t=c[p];c[p]=function(a){m({p:a.reason});t&&t.apply(c,arguments)};f||setTimeout(function(){k(h)})})(window,document,"script","onerror","onunhandledrejection","Sentry","b4e7a2b423b54000ac2058644c76f718","https://static.parastorage.com/unpkg/@sentry/browser@5.27.4/build/bundle.min.js",{"dsn":"https://b4e7a2b423b54000ac2058644c76f718@sentry.wixpress.com/217"});
+  </script>
+
+    <script type="text/javascript">
+    window.Sentry.onLoad(function () {
+      window.Sentry.init({
+        "release": "marketing-template-viewer@1.2459.0",
+        "environment": "production",
+        "allowUrls": undefined,
+        "denyUrls": undefined
+});
+      window.Sentry.configureScope(function (scope) {
+        scope.setUser({
+          id: "null-user-id:f41c3b87-2eba-45cd-acf0-13a30010fa23",
+          clientId: "f41c3b87-2eba-45cd-acf0-13a30010fa23",
+        });
+        scope.setExtra("user.authenticated", false);
+        scope.setExtra("sessionId", "1f17d4ae-74aa-4881-8a1b-00bb92a0a424");
+      });
+    });
+    </script>
+    <!-- END SENTRY -->
+    <script src="https://static.parastorage.com/polyfill/v3/polyfill.min.js?features=default,es6,es7,es2017,es2018,es2019,fetch&amp;flags=gated&amp;unknown=polyfill"></script>
+
+    <script>
+        window.onWixFedopsLoggerLoaded = function () {
+            window.fedopsLogger && window.fedopsLogger.reportAppLoadStarted('marketing-template-viewer');
+        }
+    </script>
+    <script onload="onWixFedopsLoggerLoaded()" src="//static.parastorage.com/unpkg/@wix/fedops-logger@5.511.0/dist/statics/fedops-logger.bundle.min.js" crossorigin=""></script>
+
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    
+      <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    
+
+    <link rel="icon" sizes="192x192" href="https://www.wix.com/favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="https://www.wix.com/favicon.ico" type="image/x-icon">
+    <link rel="apple-touch-icon" href="https://www.wix.com/favicon.ico" type="image/x-icon">
+
+    <link rel="stylesheet" href="https://static.parastorage.com/services/third-party/fonts/Helvetica/fontFace.css">
+    <link rel="stylesheet" href="https://static.parastorage.com/unpkg/@wix/wix-fonts@1.14.0/madefor.min.css">
+    <link rel="stylesheet" href="https://static.parastorage.com/unpkg/@wix/wix-fonts@1.14.0/madeforDisplay.min.css">
+    <link rel="stylesheet" href="//static.parastorage.com/services/marketing-template-viewer/1.2459.0/app.min.css">
+
+    <meta name="description" content="Crea tu presencia online acorde al estilo académico, con esta simple y practica plantilla cuyas funciones te permiten dar una imagen profesional pero amigable. La estructura de diseño te ofrece el espacio necesario para exponer los programas educativos de manera interactiva, comunicar las comisiones y fechas de inicio de clase. Tan solo agrega textos e imágenes para personalizar la plantilla y darle a tu institución, su merecida presencia online.">
+    <meta name="author" content="Wixpress">
+    <meta http-equiv="content-language" content="es">
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+    <meta property="og:title" content="Escuela primaria plantilla web |">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://es.wix.com/website-template/view/html/1835">
+    <meta property="og:image" content="//static.wixstatic.com/media//templates/image/83af2e06cd84d5823f8adbcc9b12a5f9c1b9b9f9d14a372fc0aae7a9de63f1fb1680170146454.jpg">
+    <meta content="Wix" property="og:site_name">
+    <meta property="og:description" content="Crea tu presencia online acorde al estilo académico, con esta simple y practica plantilla cuyas funciones te permiten dar una imagen profesional pero amigable. La estructura de diseño te ofrece el espacio necesario para exponer los programas educativos de manera interactiva, comunicar las comisiones y fechas de inicio de clase. Tan solo agrega textos e imágenes para personalizar la plantilla y darle a tu institución, su merecida presencia online.">
+    <meta property="fb:admins" content="731184828">
+    <meta name="fb:app_id" content="236335823061286">
+    <meta name="google-site-verification" content="QXhlrY-V2PWOmnGUb8no0L-fKzG48uJ5ozW0ukU7Rpo">
+
+    <link rel="canonical" href="https://es.wix.com/website-template/view/html/1835">
+
+    <link rel="alternate" hreflang="fr" href="https://fr.wix.com/website-template/view/html/1835">
+    <link rel="alternate" hreflang="pt" href="https://pt.wix.com/website-template/view/html/1835">
+    <link rel="alternate" hreflang="cs" href="https://cs.wix.com/website-template/view/html/1835">
+    <link rel="alternate" hreflang="it" href="https://it.wix.com/website-template/view/html/1835">
+    <link rel="alternate" hreflang="nl" href="https://nl.wix.com/website-template/view/html/1835">
+    <link rel="alternate" hreflang="ko" href="https://ko.wix.com/website-template/view/html/1835">
+    <link rel="alternate" hreflang="de" href="https://de.wix.com/website-template/view/html/1835">
+    <link rel="alternate" hreflang="ru" href="https://ru.wix.com/website-template/view/html/1835">
+    <link rel="alternate" hreflang="sv" href="https://sv.wix.com/website-template/view/html/1835">
+    <link rel="alternate" hreflang="tr" href="https://tr.wix.com/website-template/view/html/1835">
+    <link rel="alternate" hreflang="da" href="https://da.wix.com/website-template/view/html/1835">
+    <link rel="alternate" hreflang="en" href="https://www.wix.com/website-template/view/html/1835">
+    <link rel="alternate" hreflang="es" href="https://es.wix.com/website-template/view/html/1835">
+    <link rel="alternate" hreflang="hi" href="https://hi.wix.com/website-template/view/html/1835">
+    <link rel="alternate" hreflang="ja" href="https://ja.wix.com/website-template/view/html/1835">
+    <link rel="alternate" hreflang="no" href="https://no.wix.com/website-template/view/html/1835">
+    <link rel="alternate" hreflang="pl" href="https://pl.wix.com/website-template/view/html/1835">
+    <link rel="alternate" hreflang="vi" href="https://vi.wix.com/website-template/view/html/1835">
+    <link rel="alternate" hreflang="uk" href="https://uk.wix.com/website-template/view/html/1835">
+    <link rel="alternate" hreflang="zh" href="https://zh.wix.com/website-template/view/html/1835">
+    <link rel="alternate" hreflang="th" href="https://th.wix.com/website-template/view/html/1835">
+    <link rel="alternate" hreflang="x-default" href="https://www.wix.com/website-template/view/html/1835">
+
+    
+  <script src="//static.parastorage.com/services/tag-manager-host-scripts/1.971.0//assets/TEMPLATES/google-tag-manager.js"></script><script src="chrome-extension://njggknpmkjapgklcfhaiigafiiebpchm/static/annotate.js"></script><style type="text/css" data-hix-ai="global-external">@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap");</style><style type="text/css" data-hix-ai="email-external">.Ar.Au:not(.Ao).empty-input div[role=textbox][g_editable=true]:before {
+  content: var(--email-placeholder-compose-email);
+  pointer-events: none;
+  position: absolute;
+  display: block;
+  font-size: 14px;
+  line-height: 26px;
+  cursor: text;
+  color: #747775;
+}
+
+div[aria-label^="Re:"] .Ar.Au:not(.Ao).empty-input div[role=textbox][g_editable=true]:before {
+  content: var(--email-placeholder-reply-email);
+}</style><style type="text/css" id="placeholder-css-variable">
+    html {
+      --email-placeholder-compose-email: 'Presione "//" para redactar un correo electrónico con HIX.AI';
+      --email-placeholder-reply-email: 'Presione "//" para responder a este correo electrónico con HIX.AI';
+    }
+  </style>
+  <style type="text/css" data-hix-ai="global-external">@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap");</style><style type="text/css" data-hix-ai="hix-ai-titlebar">hix-ai-titlebar {
+  position: absolute;
+  top: 16px;
+  justify-content: center;
+  left: 50%;
+  display: flex;
+  z-index: 800;
+  align-items: center;
+  transform: translateX(-50%);
+  color: #677788;
+}
+hix-ai-titlebar .mode-item:hover {
+  color: #3a7eff;
+  background: #dee8f9;
+}</style><style type="text/css" data-hix-ai="global-external">@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap");</style><style type="text/css" data-hix-ai="global-external">@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap");</style><style type="text/css" data-hix-ai="email-external">.Ar.Au:not(.Ao).empty-input div[role=textbox][g_editable=true]:before {
+  content: var(--email-placeholder-compose-email);
+  pointer-events: none;
+  position: absolute;
+  display: block;
+  font-size: 14px;
+  line-height: 26px;
+  cursor: text;
+  color: #747775;
+}
+
+div[aria-label^="Re:"] .Ar.Au:not(.Ao).empty-input div[role=textbox][g_editable=true]:before {
+  content: var(--email-placeholder-reply-email);
+}</style><style type="text/css" data-hix-ai="email-external">.Ar.Au:not(.Ao).empty-input div[role=textbox][g_editable=true]:before {
+  content: var(--email-placeholder-compose-email);
+  pointer-events: none;
+  position: absolute;
+  display: block;
+  font-size: 14px;
+  line-height: 26px;
+  cursor: text;
+  color: #747775;
+}
+
+div[aria-label^="Re:"] .Ar.Au:not(.Ao).empty-input div[role=textbox][g_editable=true]:before {
+  content: var(--email-placeholder-reply-email);
+}</style><style type="text/css" data-hix-ai="email-external">.Ar.Au:not(.Ao).empty-input div[role=textbox][g_editable=true]:before {
+  content: var(--email-placeholder-compose-email);
+  pointer-events: none;
+  position: absolute;
+  display: block;
+  font-size: 14px;
+  line-height: 26px;
+  cursor: text;
+  color: #747775;
+}
+
+div
+[aria-label^="Re:"] .Ar.Au:not(.Ao).empty-input div[role=textbox][g_editable=true]:before {
+  content: var(--email-placeholder-reply-email);
+}
+</style>
+
+<style type="text/css" data-hix-ai="email-external">.Ar.Au:not(.Ao).empty-input div[role=textbox][g_editable=true]:before {
+  content: var(--email-placeholder-compose-email);
+  pointer-events: none;
+  position: absolute;
+  display: block;
+  font-size: 14px;
+  line-height: 26px;
+  cursor: text;
+  color: #747775;
+}
+
+div[aria-label^="Re:"] .Ar.Au:not(.Ao).empty-input div[role=textbox][g_editable=true]:before {
+  content: var(--email-placeholder-reply-email);
+}</style><style type="text/css">.lf-progress {
+  -webkit-appearance: none;
+  -moz-apperance: none;
+  width: 100%;
+  /* margin: 0 10px; */
+  height: 4px;
+  border-radius: 3px;
+  cursor: pointer;
+}
+.lf-progress:focus {
+  outline: none;
+  border: none;
+}
+.lf-progress::-moz-range-track {
+  cursor: pointer;
+  background: none;
+  border: none;
+  outline: none;
+}
+.lf-progress::-webkit-slider-thumb {
+  -webkit-appearance: none !important;
+  height: 13px;
+  width: 13px;
+  border: 0;
+  border-radius: 50%;
+  background: #0fccce;
+  cursor: pointer;
+}
+.lf-progress::-moz-range-thumb {
+  -moz-appearance: none !important;
+  height: 13px;
+  width: 13px;
+  border: 0;
+  border-radius: 50%;
+  background: #0fccce;
+  cursor: pointer;
+}
+.lf-progress::-ms-track {
+  width: 100%;
+  height: 3px;
+  cursor: pointer;
+  background: transparent;
+  border-color: transparent;
+  color: transparent;
+}
+.lf-progress::-ms-fill-lower {
+  background: #ccc;
+  border-radius: 3px;
+}
+.lf-progress::-ms-fill-upper {
+  background: #ccc;
+  border-radius: 3px;
+}
+.lf-progress::-ms-thumb {
+  border: 0;
+  height: 15px;
+  width: 15px;
+  border-radius: 50%;
+  background: #0fccce;
+  cursor: pointer;
+}
+.lf-progress:focus::-ms-fill-lower {
+  background: #ccc;
+}
+.lf-progress:focus::-ms-fill-upper {
+  background: #ccc;
+}
+.lf-player-container :focus {
+  outline: 0;
+}
+.lf-popover {
+  position: relative;
+}
+
+.lf-popover-content {
+  display: inline-block;
+  position: absolute;
+  opacity: 1;
+  visibility: visible;
+  transform: translate(0, -10px);
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.26);
+  transition: all 0.3s cubic-bezier(0.75, -0.02, 0.2, 0.97);
+}
+
+.lf-popover-content.hidden {
+  opacity: 0;
+  visibility: hidden;
+  transform: translate(0, 0px);
+}
+
+.lf-player-btn-container {
+  display: flex;
+  align-items: center;
+}
+.lf-player-btn {
+  cursor: pointer;
+  fill: #999;
+  width: 14px;
+}
+
+.lf-player-btn.active {
+  fill: #555;
+}
+
+.lf-popover {
+  position: relative;
+}
+
+.lf-popover-content {
+  display: inline-block;
+  position: absolute;
+  background-color: #ffffff;
+  opacity: 1;
+
+  transform: translate(0, -10px);
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.26);
+  transition: all 0.3s cubic-bezier(0.75, -0.02, 0.2, 0.97);
+  padding: 10px;
+}
+
+.lf-popover-content.hidden {
+  opacity: 0;
+  visibility: hidden;
+  transform: translate(0, 0px);
+}
+
+.lf-arrow {
+  position: absolute;
+  z-index: -1;
+  content: '';
+  bottom: -9px;
+  border-style: solid;
+  border-width: 10px 10px 0px 10px;
+}
+
+.lf-left-align,
+.lf-left-align .lfarrow {
+  left: 0;
+  right: unset;
+}
+
+.lf-right-align,
+.lf-right-align .lf-arrow {
+  right: 0;
+  left: unset;
+}
+
+.lf-text-input {
+  border: 1px #ccc solid;
+  border-radius: 5px;
+  padding: 3px;
+  width: 60px;
+  margin: 0;
+}
+
+.lf-color-picker {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  height: 90px;
+}
+
+.lf-color-selectors {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.lf-color-component {
+  display: flex;
+  flex-direction: row;
+  font-size: 12px;
+  align-items: center;
+  justify-content: center;
+}
+
+.lf-color-component strong {
+  width: 40px;
+}
+
+.lf-color-component input[type='range'] {
+  margin: 0 0 0 10px;
+}
+
+.lf-color-component input[type='number'] {
+  width: 50px;
+  margin: 0 0 0 10px;
+}
+
+.lf-color-preview {
+  font-size: 12px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  padding-left: 5px;
+}
+
+.lf-preview {
+  height: 60px;
+  width: 60px;
+}
+
+.lf-popover-snapshot {
+  width: 150px;
+}
+.lf-popover-snapshot h5 {
+  margin: 5px 0 10px 0;
+  font-size: 0.75rem;
+}
+.lf-popover-snapshot a {
+  display: block;
+  text-decoration: none;
+}
+.lf-popover-snapshot a:before {
+  content: '⥼';
+  margin-right: 5px;
+}
+.lf-popover-snapshot .lf-note {
+  display: block;
+  margin-top: 10px;
+  color: #999;
+}
+.lf-player-controls > div {
+  margin-right: 5px;
+  margin-left: 5px;
+}
+.lf-player-controls > div:first-child {
+  margin-left: 0px;
+}
+.lf-player-controls > div:last-child {
+  margin-right: 0px;
+}
+</style><style type="text/css" data-hix-ai="global-external">@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap");</style><script src="https://bat.bing.com/p/action/36000948.js" type="text/javascript" async="" data-ueto="ueto_8b32f17f37"></script><style type="text/css" data-hix-ai="email-external">.Ar.Au:not(.Ao).empty-input div[role=textbox][g_editable=true]:before {
+  content: var(--email-placeholder-compose-email);
+  pointer-events: none;
+  position: absolute;
+  display: block;
+  font-size: 14px;
+  line-height: 26px;
+  cursor: text;
+  color: #747775;
+}
+
+div[aria-label^="Re:"] .Ar.Au:not(.Ao).empty-input div[role=textbox][g_editable=true]:before {
+  content: var(--email-placeholder-reply-email);
+}</style><style type="text/css" data-hix-ai="global-external">@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap");</style><style id="monica-reading-highlight-style">
+        .monica-reading-highlight {
+          animation: fadeInOut 1.5s ease-in-out;
+        }
+
+        @keyframes fadeInOut {
+          0%, 100% { background-color: transparent; }
+          30%, 70% { background-color: rgba(2, 118, 255, 0.20); }
+        }
+      </style></head>
+  <body __processed_899a9f4c-3db1-40c2-ae20-a8df35c51174__="true" hix-version="3.1.8" hix-id="njggknpmkjapgklcfhaiigafiiebpchm" monica-id="ofpnmcalabcbjgholdjcjblkibolbppb" monica-version="7.9.1">
+    <script>
+        window.onWixRecorderLoaded = function () {
+            window.dispatchEvent(new Event('wixRecorderReady'));
+        };
+    </script>
+
+    <script async="" src="//static.parastorage.com/unpkg-semver/wix-recorder/app.bundle.min.js" crossorigin="" onload="onWixRecorderLoaded()"></script>
+
+    <script src="//static.parastorage.com/services/cookie-sync-service/1.347.20/embed-cidx.bundle.min.js"></script>
+    <script src="//static.parastorage.com/services/tag-manager-client/1.920.0/hostTags.bundle.min.js"></script>
+    <div id="root"><span data-newcolorsbranding="true" class="wds_1_164_0_newColorsBranding__root wds_1_164_0_madefor__madefor"><div data-hook="app"><div data-hook="tool-bar" class="sbWfkE"><div class="Mn4893"><div class="bZOLNF"><a data-hook="logo" href="/" class="nHuSJZ"><span class="AV8G6s">wix.com</span></a></div><div class="wKSaYa"><button data-hook="desktop-view" class="is65hl sdsgLW"><span class="XFdFwl">mostrar versión de computadora</span></button><hr class="hS1yv1"><button data-hook="mobile-view" class="fB70N2"><span class="XFdFwl">mostrar versión móvil</span></button></div></div><div class="TYXuEX"><div class="RyxoSg"><p data-hook="tool-bar-title" class="VaexPL">Haz clic en editar y crea tu propio sitio web increíble</p><a data-hook="info-view" class="bggdgE" tabindex="0" role="dialog" href="#">Saber más</a><a class="Ydu4WK" data-hook="editor-link" href="https://manage.wix.com/edit-template/from-intro?originTemplateId=5f5a02c8-07f2-4057-a778-2a7737def1eb&amp;editorSessionId=7fe8d9d0-99d4-4b27-b29b-f23af96c5901" target="_blank" tabindex="0">Editar este sitio</a></div></div></div><div data-hook="template-demo" class="CJ4D6R"><div data-hook="desktop-view" class="Woz8P7"><iframe data-hook="desktop-iframe" src="https://www.wix.com/templateses/1835-elementary-scho" title="Escuela primaria" width="100%" height="100%" class="eZTjsa"></iframe></div></div><div data-hook="info-pop-up" class="M05QSQ"><div class="E0wHmq"><button data-hook="card-close" class="eds_d0"><span class="ydbrSa">cerrar</span></button><div class="qLnKwP"><h1 data-hook="card-title" class="PHJvhr">Escuela primaria - Plantilla web</h1><div class="CEjC4K"><h3 data-hook="card-good-for-title" class="xqspyG">Bueno para:</h3><p data-hook="card-good-for" class="gsbPc5">Escuela, educación, universidad, organización juvenil, e Institución académica.</p></div><div class="CEjC4K"><h3 class="xqspyG">Descripción:</h3><p data-hook="card-description" class="gsbPc5">Crea tu presencia online acorde al estilo académico, con esta simple y practica plantilla cuyas funciones te permiten dar una imagen profesional pero amigable. La estructura de diseño te ofrece el espacio necesario para exponer los programas educativos de manera interactiva, comunicar las comisiones y fechas de inicio de clase. Tan solo agrega textos e imágenes para personalizar la plantilla y darle a tu institución, su merecida presencia online.</p></div></div><div class="KiqsRq"><a data-hook="card-editor-url" class="XpwCp3 sKD7vO" target="_blank" href="https://manage.wix.com/edit-template/from-intro?originTemplateId=5f5a02c8-07f2-4057-a778-2a7737def1eb&amp;editorSessionId=7fe8d9d0-99d4-4b27-b29b-f23af96c5901">Editar ahora</a></div></div></div></div></span></div>
+    <script>
+        window.__BASEURL__ = "https:\u002F\u002Fes.wix.com\u002Fwebsite-template\u002Fview\u002Fhtml\u002F";
+        window.__INITIAL_I18N__ = {"locale":"es","resources":{"errorPage.templatesLinkText":"Plantillas","template.viewer.page.title":"{{- title}} plantilla web | WIX","template.viewer.studio.page.title":"Plantilla adaptativa {{- title}} | Wix Studio","template.viewer.studio.page.description":"Esta plantilla de {{- title}} está lista para que la personalices según tus necesidades. Haz clic en Editar plantilla y pruébala en cualquier dispositivo","template_button_label":"Editar página web","template_seeFeatures_label":"Ver todas las funciones","template_expand_examples_text":"Genial para:","template_expand_header":"Funciones de la plantilla","template.viewer.title":"Haz clic en editar y crea tu propio sitio web increíble","template.viewer.saveTemplate.button":"Guardar plantilla","template.viewer.edit.button":"Editar este sitio","template.viewer.read.more":"Saber más","template.viewer.back":"Volver","template.viewer.info.edit.button":"Editar ahora","template.viewer.price":"Precio:","template.viewer.info.title":"{{- title}} - Plantilla web","template.viewer.info.goodFor":"Bueno para:","template.viewer.info.description":"Descripción:","template.viewer.info.desktop.only.notice":"Edita esta plantilla entrando a Wix.com en tu computador, donde puedes personalizar todas nuestras hermosas plantillas.","template.viewer.see.all.templates":"Ver todas las plantillas","template.viewer.seeAllExpressions":"See all expressions","template.viewer.goToBiggerScreen":"Para comenzar a diseñar, ve a un dispositivo de escritorio.","template.viewer.getStarted":"Empezar","template.viewer.startNow":"Empezar","template.viewer.features":"Funciones","template.viewer.allFeatures":"Todas las funciones","template.viewer.expressions":"Expressions","template.viewer.tutorials":"Tutoriales","template.viewer.updatesAndReleases":"Actualizaciones y lanzamientos","template.viewer.comingSoon":"Próximamente","template.viewer.academy":"Academia","template.viewer.editTemplate":"Editar plantilla","template.viewer.header.backToTemplates":"Volver a Plantillas","template.viewer.hint.copyPaste.title":"Consejo: ","template.viewer.hint.copyPaste.text":"Puedes guardar las secciones que te gusten de esta plantilla para reutilizarlas en tus sitios de Wix Studio. ","template.viewer.hint.copyPaste.urlTitle":"Leer más","a11y.desktop.button":"mostrar versión de computadora","a11y.mobile.button":"mostrar versión móvil","a11y.close.popup.button":"cerrar","toolbar.tooltip.desktop":"1001px y más","toolbar.tooltip.tablet":"751 hasta 1000px","toolbar.tooltip.mobile":"320 hasta 750px","errorPage.4xx.title":"No pudimos encontrar la plantilla que estabas buscando","errorPage.5xx.title":"No pudimos cargar nuestra plantilla","errorPage.subTitle":"Error: {{- code }}","errorPage.4xx.details":"Intenta buscar otra plantilla \u003Clink\u003Eaquí\u003C\u002Flink\u003E.","errorPage.5xx.details":"Un problema técnico temporal nos impidió cargar esta página. Espera unos minutos y vuélvelo a intentar.","errorPage.5xx.action":"Actualizar","seo.breadcrumbs.home":"Wix.com","seo.breadcrumbs.websiteTemplates":"Plantillas web","seo.breadcrumbs.studioTemplates":"Plantillas de Wix Studio","seo.breadcrumbs.template":"Plantilla web {{- title}}","template.viewer.v2.edit.button":"Editar este sitio","template.viewer.v2.demo.button":"Ver sitio de demostración","template.viewer.v2.template.info":"Esta plantilla es ideal para","template.viewer.v2.template.details":"Acerca de esta plantilla","template.viewer.v2.template.apps":"Apps principales","template.viewer.v2.template.apps.description":"Esta plantilla incluye las siguientes funciones:","template.viewer.v2.demo.template.name":"Plantilla web: {{name}}","template.viewer.v2.template.likeThis.title":"Plantillas como esta","template.viewer.v2.template.button.edit":"Editar","template.viewer.v2.template.button.view":"Ver","template.viewer.v2.header.description":"Haz clic en editar y crea tu propio sitio web increíble","template.viewer.v2.demo.template.view":"Ver en pantalla completa","APP_PORTFOLIO":"Wix Portafolio","APP_PORTFOLIO_DESCRIPTION":"Muestra tu trabajo en un portafolio que se destaque","APP_DONATIONS":"Wix Donaciones","APP_DONATIONS_DESCRIPTION":"Recibe y administra donaciones online","APP_EVENTS":"Wix Eventos","APP_EVENTS_DESCRIPTION":"Crea eventos, vende entradas y monitorea las RSVP","APP_BOOKINGS":"Wix Bookings","APP_BOOKINGS_DESCRIPTION":"Motiva a los clientes para que programen citas en tu sitio","APP_BLOG":"Wix Blog","APP_BLOG_DESCRIPTION":"Escribe entradas y comparte tus ideas para generar tráfico","APP_MENUS":"Menús de Wix Restaurants","APP_MENUS_DESCRIPTION":"Crea un menú y muéstralo en tu sitio web","APP_ORDERS":"Pedidos de Wix Restaurants","APP_ORDERS_DESCRIPTION":"Acepta pedidos online de recogida en persona y envío a domicilio","APP_RESERVATIONS":"Wix Reservas de mesas","APP_RESERVATIONS_DESCRIPTION":"Acepta reservas a toda hora directamente desde tu sitio","APP_STORES":"Wix Stores","APP_STORES_DESCRIPTION":"Vende tus productos o renueva los artículos que ofreces","APP_PLANS":"Wix Planes de precios","APP_PLANS_DESCRIPTION":"Vende suscripciones y membresías","APP_PROGRAMS":"Wix Programas online","APP_PROGRAMS_DESCRIPTION":"Crea y vende programas de varios pasos","APP_HOTELS":"Wix Hotels","APP_HOTELS_DESCRIPTION":"Administra y haz crecer tu negocio de hotelería","APP_CHAT":"Wix Chat","APP_CHAT_DESCRIPTION":"Permite que los visitantes de tu sitio se comuniquen contigo en todo momento","APP_FORMS":"Wix Formularios","APP_FORMS_DESCRIPTION":"Capta clientes potenciales, cobra pagos y mucho más","APP_INSTAGRAM":"Feed de Instagram (nuevo)","APP_INSTAGRAM_DESCRIPTION":"Muestra tus fotos y videos de Instagram","APP_VIDEO":"Wix Video","APP_VIDEO_DESCRIPTION":"Comparte, transmite y vende tus videos","APP_MUSIC":"Wix Música","APP_MUSIC_DESCRIPTION":"Transmite y vende tu música sin comisiones","APP_GROUPS":"Wix Grupos","APP_GROUPS_DESCRIPTION":"Dirige y administra comunidades online monetizables","APP_FILE_SHARE":"Wix Archivos compartidos","APP_FILE_SHARE_DESCRIPTION":"Crea una biblioteca de archivos compartidos para los miembros del sitio","thankYou.error.title":"Lo sentimos, algo falló.","thankYou.error.description":"Hubo un problema técnico de nuestra parte. Vuelve a elegir tu plantilla e intenta guardarla nuevamente.","thankYou.error.cta":"Ver plantillas","thankYou.wixOwnerAppBanner.cta":"Instalar","thankYou.wixOwnerAppBanner.description":"Obtén la app Wix, crea y administra tu sitio estés donde estés","thankYou.success.title":"La plantilla que guardaste se envió a tu email","thankYou.success.alternativeTitle":"Tu plantilla se enviará a tu email en breve","thankYou.success.description":"Ábrela desde un dispositivo de escritorio para comenzar a crear tu sitio.","template.newMobileFlow.preview.saveTemplate":"Guardar plantilla"}};
+        window.__INITIAL_STATE__ = {"templatesLikeThis":[{"template":{"templateId":"1b787910-db95-4c2d-b047-60474198ae57","siteId":"3968d7d4-3195-4118-9f04-1ddd6a2196ef","metaSiteId":"a0ffab6c-a991-4d82-8b29-39008bb98ab5","title":"ONG educativa","description":"Pon a tu organización en el centro de atención con esta plantilla colorida, moderna y sofisticada. Con las páginas dinámicas de Wix, puedes gestionar fácilmente la información sobre tus proyectos, voluntarios, miembros del equipo y mucho más. Mantén al día a los visitantes del sitio con tus últimas noticias y conecta fácilmente las secciones para suscribirse y realizar donaciones para promover la participación de la comunidad. Empieza a editar hoy mismo y dale a tu maravillosa misión el espacio online que se merece.","price":"","goodFor":"Organizaciones sin fines de lucro, benéficas y sociales","assets":[{"type":"DESKTOP","url":"\u002Ftemplates\u002Fimage\u002Fdacdc33613beb22ffbe0be55f9ed0a7b161194943b87b7432e0f387d458131c61675190286176.jpg","absoluteUrl":"https:\u002F\u002Fimages-wixmp-530a50041672c69d335ba4cf.wixmp.com\u002Ftemplates\u002Fimage\u002Fdacdc33613beb22ffbe0be55f9ed0a7b161194943b87b7432e0f387d458131c61675190286176.jpg","alt":""},{"type":"DESKTOP_16X9","url":"\u002Ftemplates\u002Fimage\u002Fb9965a140461f46f589618e4d767bc55fe3a4847c1a8c307b09cc89f5c6864601675190331056.jpg","absoluteUrl":"https:\u002F\u002Fimages-wixmp-530a50041672c69d335ba4cf.wixmp.com\u002Ftemplates\u002Fimage\u002Fb9965a140461f46f589618e4d767bc55fe3a4847c1a8c307b09cc89f5c6864601675190331056.jpg","alt":""},{"type":"MOBILE","url":"\u002Ftemplates\u002Fimage\u002Fab0282b306425048be13ed56b04e63baf4ff5437565b3699327f0e21af2bb0931675190422422.jpg","absoluteUrl":"https:\u002F\u002Fimages-wixmp-530a50041672c69d335ba4cf.wixmp.com\u002Ftemplates\u002Fimage\u002Fab0282b306425048be13ed56b04e63baf4ff5437565b3699327f0e21af2bb0931675190422422.jpg","alt":""}],"slug":"3115","features":[{"featureId":"contentManager"}],"apps":[{"appDefId":"139ef4fa-c108-8f9a-c7be-d5f492a2c939"},{"appDefId":"14517e1a-3ff0-af98-408e-2bd6953c36a2"},{"appDefId":"Clubs"},{"appDefId":"4b10fcce-732d-4be3-9d46-801d271acda9"},{"appDefId":"SiteMembers"},{"appDefId":"14271d6f-ba62-d045-549b-ab972ae1f70e"},{"appDefId":"14ce1214-b278-a7e4-1373-00cebd1bef7c"},{"appDefId":"CloudSiteExtension"},{"appDefId":"ProvidedMailingService"},{"appDefId":"Contacts"},{"appDefId":"HtmlWeb"}],"featuresDescription":"","templateBuilder":"Editor"},"metadata":{"resultType":"Vespa","score":0.40391412377357483}},{"template":{"templateId":"ad318e58-7066-49b3-ad78-d3169e8f62f7","siteId":"d781c097-d47d-4ee3-91d2-c57ee6c0f09f","metaSiteId":"101c565c-a797-4410-8af6-4c1e7893c1d5","title":"Escuela de actuación","description":"Pon tus habilidades de enseñanza en el centro de atención con esta plantilla elegante y fácil de usar. ¿Buscas nuevos estudiantes? ¿Tienes un nuevo taller que promover? ¡Esta plantilla tiene todo lo que necesitas! Gestiona tus clases con Wix Bookings, edita la sección de preguntas frecuentes y carga los testimonios de los estudiantes para obtener más credibilidad. No olvides compartir uno o dos párrafos sobre ti y tu experiencia profesional. ¿Listo para conocer a tus primeros estudiantes? ¡Empieza a editar hoy mismo!&nbsp;","price":"","goodFor":"Profesores, talleres creativos y estudios profesionales\n\n","assets":[{"type":"DESKTOP","url":"\u002Ftemplates\u002Fimage\u002F5751f093edee7d734fbfe9374005eb4c0fc5bc767b32b2188d9ded42d091fe491656515985551.jpg","absoluteUrl":"https:\u002F\u002Fimages-wixmp-530a50041672c69d335ba4cf.wixmp.com\u002Ftemplates\u002Fimage\u002F5751f093edee7d734fbfe9374005eb4c0fc5bc767b32b2188d9ded42d091fe491656515985551.jpg","alt":""},{"type":"DESKTOP_16X9","url":"\u002Ftemplates\u002Fimage\u002Fe6d5fbb557285a1a519d6a71fb0fce29a233f26485b1d21111280694b8343f801656516005220.jpg","absoluteUrl":"https:\u002F\u002Fimages-wixmp-530a50041672c69d335ba4cf.wixmp.com\u002Ftemplates\u002Fimage\u002Fe6d5fbb557285a1a519d6a71fb0fce29a233f26485b1d21111280694b8343f801656516005220.jpg","alt":""},{"type":"MOBILE","url":"\u002Ftemplates\u002Fimage\u002Fab5ca6264687c84dace75b1b8d8a174f030644ed51b7ced0064fddafb270afcd1656516021636.jpg","absoluteUrl":"https:\u002F\u002Fimages-wixmp-530a50041672c69d335ba4cf.wixmp.com\u002Ftemplates\u002Fimage\u002Fab5ca6264687c84dace75b1b8d8a174f030644ed51b7ced0064fddafb270afcd1656516021636.jpg","alt":""}],"slug":"2497","features":[],"color":{"color1":"black","colorStyle":"dark"},"layout":{"layout1":"hero-image"},"apps":[{"appDefId":"Clubs"},{"appDefId":"1380b703-ce81-ff05-f115-39571d94dfcd"},{"appDefId":"CloudSiteExtension"},{"appDefId":"14271d6f-ba62-d045-549b-ab972ae1f70e"},{"appDefId":"13d21c63-b5ec-5912-8397-c3a5ddb27a97"},{"appDefId":"14c92d28-031e-7910-c9a8-a670011e062d"},{"appDefId":"SiteMembers"},{"appDefId":"4b10fcce-732d-4be3-9d46-801d271acda9"},{"appDefId":"HtmlWeb"},{"appDefId":"14517e1a-3ff0-af98-408e-2bd6953c36a2"},{"appDefId":"14cc59bc-f0b7-15b8-e1c7-89ce41d0e0c9"},{"appDefId":"14ce1214-b278-a7e4-1373-00cebd1bef7c"},{"appDefId":"Contacts"},{"appDefId":"14cffd81-5215-0a7f-22f8-074b0e2401fb"},{"appDefId":"ProvidedMailingService"},{"appDefId":"14ce28f7-7eb0-3745-22f8-074b0e2401fb"}],"featuresDescription":"","templateBuilder":"Editor"},"metadata":{"resultType":"Vespa","score":0.39966854453086853}},{"template":{"templateId":"9a754400-7bdf-4aca-9b20-5d6e4ee34f90","siteId":"a752bebb-8f8b-4c1e-8dd5-012731b164ba","metaSiteId":"1992e62d-0b9f-4b3f-8709-151b77c2a345","title":"Tutor(a) ","description":"Ofrece tu próxima clase online con una plantilla diseñada para satisfacer tus necesidades. Wix Bookings permite que los participantes se registren fácilmente en los próximos eventos, mientras que los planes de precios les dan a tus clientes más fieles la opción de convertirse en miembro plenos. Ambos hacen que la gestión de tu comunidad de seguidores resulte conveniente, para que puedas centrarte en la creación de tus ofertas online.","price":"","goodFor":"Profesores, instructores y entrenadores","assets":[{"type":"DESKTOP","url":"\u002Ftemplates\u002Fimage\u002F25bc374012c9f57ae9cd479655f222280eb11276518720aa41bf8cb9798aa50f1680171108284.jpg","absoluteUrl":"https:\u002F\u002Fimages-wixmp-530a50041672c69d335ba4cf.wixmp.com\u002Ftemplates\u002Fimage\u002F25bc374012c9f57ae9cd479655f222280eb11276518720aa41bf8cb9798aa50f1680171108284.jpg","alt":""},{"type":"DESKTOP_16X9","url":"\u002Ftemplates\u002Fimage\u002Fd144ae145dab0dea8f50c07b01973ae43cecd3d755a8b586626ea1af748ab3f31680171145066.jpg","absoluteUrl":"https:\u002F\u002Fimages-wixmp-530a50041672c69d335ba4cf.wixmp.com\u002Ftemplates\u002Fimage\u002Fd144ae145dab0dea8f50c07b01973ae43cecd3d755a8b586626ea1af748ab3f31680171145066.jpg","alt":""},{"type":"MOBILE","url":"\u002Ftemplates\u002Fimage\u002F94a6cb53b3cb7eed8a9a3f5ac51c73d6985388d3032475d861fb3d9f776e1e461680171158746.jpg","absoluteUrl":"https:\u002F\u002Fimages-wixmp-530a50041672c69d335ba4cf.wixmp.com\u002Ftemplates\u002Fimage\u002F94a6cb53b3cb7eed8a9a3f5ac51c73d6985388d3032475d861fb3d9f776e1e461680171158746.jpg","alt":""}],"slug":"2625","features":[],"color":{"color1":"orange","colorStyle":"bright"},"layout":{"layout1":"strip"},"apps":[{"appDefId":"4b10fcce-732d-4be3-9d46-801d271acda9"},{"appDefId":"1522827f-c56c-a5c9-2ac9-00f9e6ae12d3"},{"appDefId":"HtmlWeb"},{"appDefId":"14517e1a-3ff0-af98-408e-2bd6953c36a2"},{"appDefId":"CloudSiteExtension"},{"appDefId":"14cc59bc-f0b7-15b8-e1c7-89ce41d0e0c9"},{"appDefId":"ProvidedMailingService"},{"appDefId":"14dbef06-cc42-5583-32a7-3abd44da4908"},{"appDefId":"Clubs"},{"appDefId":"14ce1214-b278-a7e4-1373-00cebd1bef7c"},{"appDefId":"4aebd0cb-fbdb-4da7-b5d1-d05660a30172"},{"appDefId":"14cffd81-5215-0a7f-22f8-074b0e2401fb"},{"appDefId":"13d21c63-b5ec-5912-8397-c3a5ddb27a97"},{"appDefId":"1537b24e-29d1-6d8f-b8e1-d6860f2f70b9"},{"appDefId":"2bef2abe-7abe-43da-889c-53c1500a328c"},{"appDefId":"1380b703-ce81-ff05-f115-39571d94dfcd"},{"appDefId":"2936472a-a1ed-4ae5-9f71-614313a9f4e7"},{"appDefId":"14ce28f7-7eb0-3745-22f8-074b0e2401fb"},{"appDefId":"14f25924-5664-31b2-9568-f9c5ed98c9b1"},{"appDefId":"SiteMembers"},{"appDefId":"Contacts"}],"featuresDescription":"","templateBuilder":"Editor"},"metadata":{"resultType":"Vespa","score":0.3909986913204193}}],"viewMode":"desktop","isInfoShown":false,"isEditButtonHidden":false,"template":{"title":"Escuela primaria","description":"Crea tu presencia online acorde al estilo académico, con esta simple y practica plantilla cuyas funciones te permiten dar una imagen profesional pero amigable. La estructura de diseño te ofrece el espacio necesario para exponer los programas educativos de manera interactiva, comunicar las comisiones y fechas de inicio de clase. Tan solo agrega textos e imágenes para personalizar la plantilla y darle a tu institución, su merecida presencia online.","image":"\u002Ftemplates\u002Fimage\u002F83af2e06cd84d5823f8adbcc9b12a5f9c1b9b9f9d14a372fc0aae7a9de63f1fb1680170146454.jpg","slug":"1835","lng":"es","languages":["cs","da","de","en","es","fi","fr","hi","id","it","ja","ko","nl","no","pl","pt","ru","sv","th","tr","uk","vi","zh"],"price":"","docUrl":"https:\u002F\u002Fwww.wix.com\u002Ftemplateses\u002F1835-elementary-scho","editorUrl":"https:\u002F\u002Fmanage.wix.com\u002Fedit-template\u002Ffrom-intro?originTemplateId=5f5a02c8-07f2-4057-a778-2a7737def1eb&editorSessionId=7fe8d9d0-99d4-4b27-b29b-f23af96c5901","goodFor":"Escuela, educación, universidad, organización juvenil, e Institución académica.","siteId":"a4ebfcce-20b1-41b8-9bd1-677d73a03174","mobileImage":{"type":"MOBILE","url":"\u002Ftemplates\u002Fimage\u002F578a2f63da3bd87eedcddf4e41597405bb44e05241e682514033f8014805d6b71680170172555.jpg","absoluteUrl":"https:\u002F\u002Fimages-wixmp-530a50041672c69d335ba4cf.wixmp.com\u002Ftemplates\u002Fimage\u002F578a2f63da3bd87eedcddf4e41597405bb44e05241e682514033f8014805d6b71680170172555.jpg","alt":""},"desktopImage":{"type":"DESKTOP","url":"\u002Ftemplates\u002Fimage\u002F83af2e06cd84d5823f8adbcc9b12a5f9c1b9b9f9d14a372fc0aae7a9de63f1fb1680170146454.jpg","absoluteUrl":"https:\u002F\u002Fimages-wixmp-530a50041672c69d335ba4cf.wixmp.com\u002Ftemplates\u002Fimage\u002F83af2e06cd84d5823f8adbcc9b12a5f9c1b9b9f9d14a372fc0aae7a9de63f1fb1680170146454.jpg","alt":""},"metaSiteId":"5f5a02c8-07f2-4057-a778-2a7737def1eb","editorSessionId":"7fe8d9d0-99d4-4b27-b29b-f23af96c5901","isResponsive":false,"isStudio":false,"templateId":"25cd1149-d3f8-46f4-8570-1dd1367e092b","url":"https:\u002F\u002Fwww.wix.com\u002Ftemplateses\u002F1835-elementary-scho","apps":[{"appDefId":"14ce28f7-7eb0-3745-22f8-074b0e2401fb"},{"appDefId":"4aebd0cb-fbdb-4da7-b5d1-d05660a30172"},{"appDefId":"14dbef06-cc42-5583-32a7-3abd44da4908"},{"appDefId":"Contacts"},{"appDefId":"CloudSiteExtension"},{"appDefId":"14271d6f-ba62-d045-549b-ab972ae1f70e"},{"appDefId":"4b10fcce-732d-4be3-9d46-801d271acda9"},{"appDefId":"14bcded7-0066-7c35-14d7-466cb3f09103"},{"appDefId":"14f25924-5664-31b2-9568-f9c5ed98c9b1"},{"appDefId":"14ce1214-b278-a7e4-1373-00cebd1bef7c"},{"appDefId":"ProvidedMailingService"},{"appDefId":"HtmlWeb"},{"appDefId":"SiteMembers"},{"appDefId":"14517e1a-3ff0-af98-408e-2bd6953c36a2"},{"appDefId":"14f25dc5-6af3-5420-9568-f9c5ed98c9b1"},{"appDefId":"14cc59bc-f0b7-15b8-e1c7-89ce41d0e0c9"},{"appDefId":"1537b24e-29d1-6d8f-b8e1-d6860f2f70b9"},{"appDefId":"14cffd81-5215-0a7f-22f8-074b0e2401fb"},{"appDefId":"Clubs"},{"appDefId":"140603ad-af8d-84a5-2c80-a0f60cb47351"}]},"activeExperiments":["OpenTemplateInSameTabForDashboardFirstUsers","StudioTemplatesPageNewUI"],"config":{"locale":"es","dealerCmsTranslationsUrl":"\u002F\u002Fstatic.parastorage.com\u002Fservices\u002Fdealer-cms-translations\u002F1.7067.0\u002F","dealerLightboxUrl":"\u002F\u002Fstatic.parastorage.com\u002Fservices\u002Fdealer-lightbox\u002F2.0.260\u002F"},"userData":{"isLoggedIn":false}};
+        window.__BI__ = {"siteId":"a4ebfcce-20b1-41b8-9bd1-677d73a03174","originUrl":"https:\u002F\u002Fes.wix.com\u002Fwebsite\u002Ftemplates?criteria=escolar","referer":"https:\u002F\u002Fes.wix.com\u002Fwebsite\u002Ftemplates\u002F?criteria=escolar","editorSessionId":"7fe8d9d0-99d4-4b27-b29b-f23af96c5901"};
+        window.__DEVICE__ = "desktop";
+        window.__CONSENT_POLICY__ = {"essential":true,"functional":true,"analytics":true,"advertising":true,"dataToThirdParty":true};
+    </script>
+
+    <script src="//static.parastorage.com/unpkg/react@18.2.0/umd/react.production.min.js" crossorigin=""></script>
+    <script src="//static.parastorage.com/unpkg/react-dom@18.2.0/umd/react-dom.production.min.js" crossorigin=""></script>
+    <script src="//static.parastorage.com/services/cookie-consent-policy-client/1.866.0/app.bundle.min.js"></script>
+
+    
+      <script src="//static.parastorage.com/services/dealer-lightbox/2.0.260/dealer-lightbox.bundle.min.js"></script>
+    
+
+    <script src="//static.parastorage.com/services/marketing-template-viewer/1.2459.0/app.bundle.min.js"></script>
+  
+
+<div id="bbai-shadow-wrapper"></div><div id="chrome-extension-boilerplate-react-vite-content-view-root"></div><script type="text/javascript" id="" charset="">var wixUuidForFb=null;try{var _getCookie=function(b){var c="; "+document.cookie;b=c.split("; "+b+"\x3d");if(2==b.length)return b.pop().split(";").shift()},_wixClientCookie=_getCookie("wixClient");wixUuidForFb=_wixClientCookie&&_wixClientCookie.split("|")[6]}catch(b){}
+"undefined"===typeof fbq&&!function(b,c,f,g,a,d,e){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],d=c.createElement(f),d.async=!0,d.src=g,e=c.getElementsByTagName(f)[0],setTimeout(function(){e.parentNode.insertBefore(d,e)},3E3))}(window,document,"script","//connect.facebook.net/en_US/fbevents.js");fbq("init","704136006388169",{external_id:wixUuidForFb});fbq("trackCustom","PageView");</script>
+<script type="text/javascript" id="" charset="">!function(d,g,e){d.TiktokAnalyticsObject=e;var a=d[e]=d[e]||[];a.methods="page track identify instances debug on off once ready alias group enableCookie disableCookie holdConsent revokeConsent grantConsent".split(" ");a.setAndDefer=function(b,c){b[c]=function(){b.push([c].concat(Array.prototype.slice.call(arguments,0)))}};for(d=0;d<a.methods.length;d++)a.setAndDefer(a,a.methods[d]);a.instance=function(b){b=a._i[b]||[];for(var c=0;c<a.methods.length;c++)a.setAndDefer(b,a.methods[c]);return b};a.load=
+function(b,c){var f="https://analytics.tiktok.com/i18n/pixel/events.js";a._i=a._i||{};a._i[b]=[];a._i[b]._u=f;a._t=a._t||{};a._t[b]=+new Date;a._o=a._o||{};a._o[b]=c||{};c=document.createElement("script");c.type="text/javascript";c.async=!0;c.src=f+"?sdkid\x3d"+b+"\x26lib\x3d"+e;b=document.getElementsByTagName("script")[0];b.parentNode.insertBefore(c,b)};a.load("CKA47TJC77U7REM9C0R0");a.page()}(window,document,"ttq");</script>
+<script type="text/javascript" id="" charset="">(function(a,c,e,k,b){a[b]=a[b]||[];a[b].push({projectId:"10000",properties:{pixelId:"10196208",he:"\x3cemail_address\x3e"}});var d=c.createElement(e);d.src=k;d.async=!0;d.onload=d.onreadystatechange=function(){var f=this.readyState,l=a[b];if(!f||"complete"==f||"loaded"==f)try{var g=YAHOO.ywa.I13N.fireBeacon;a[b]=[];a[b].push=function(h){g([h])};g(l)}catch(h){}};c=c.getElementsByTagName(e)[0];e=c.parentNode;e.insertBefore(d,c)})(window,document,"script","https://s.yimg.com/wi/ytc.js","dotq");</script>
+<script type="text/javascript" id="" charset="">!function(d,g,e){d.TiktokAnalyticsObject=e;var a=d[e]=d[e]||[];a.methods="page track identify instances debug on off once ready alias group enableCookie disableCookie holdConsent revokeConsent grantConsent".split(" ");a.setAndDefer=function(b,c){b[c]=function(){b.push([c].concat(Array.prototype.slice.call(arguments,0)))}};for(d=0;d<a.methods.length;d++)a.setAndDefer(a,a.methods[d]);a.instance=function(b){b=a._i[b]||[];for(var c=0;c<a.methods.length;c++)a.setAndDefer(b,a.methods[c]);return b};a.load=
+function(b,c){var f="https://analytics.tiktok.com/i18n/pixel/events.js";a._i=a._i||{};a._i[b]=[];a._i[b]._u=f;a._t=a._t||{};a._t[b]=+new Date;a._o=a._o||{};a._o[b]=c||{};c=document.createElement("script");c.type="text/javascript";c.async=!0;c.src=f+"?sdkid\x3d"+b+"\x26lib\x3d"+e;b=document.getElementsByTagName("script")[0];b.parentNode.insertBefore(c,b)};a.load("C3SI0CO4C3S2QIOV7NI0");a.page()}(window,document,"ttq");</script><iframe height="0" width="0" style="display: none; visibility: hidden;"></iframe>
+<iframe allow="join-ad-interest-group" data-tagging-id="G-46CXENL4NC" data-load-time="1741103913476" height="0" width="0" src="https://td.doubleclick.net/td/ga/rul?tid=G-46CXENL4NC&amp;gacid=2019429854.1740531856&amp;gtm=45je52q0v9123674316z86319694za200zb6319694&amp;dma=0&amp;gcs=G111&amp;gcd=13t3t3t3t5l1&amp;npa=0&amp;pscdl=noapi&amp;aip=1&amp;fledge=1&amp;frm=0&amp;tag_exp=101732279~101732281~102067808~102482433~102539968~102558064~102587591~102605417~102640600~102717422~102732003&amp;z=747136072" style="display: none; visibility: hidden;"></iframe><hix-ai-sidebar data-wxt-shadow-root=""></hix-ai-sidebar><iframe allow="join-ad-interest-group" data-tagging-id="AW-1006927621/Jza8CKKX8MgBEIX-keAD" data-load-time="1741103919126" height="0" width="0" src="https://td.doubleclick.net/td/rul/1006927621?random=1741103919102&amp;cv=11&amp;fst=1741103919102&amp;fmt=3&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;gcl_ctr=4&amp;gtm=45be52q0v9133290662z86319694za201zb9123674316&amp;gcs=G111&amp;gcd=13t3t3t3t5l1&amp;dma=0&amp;tag_exp=101732279~101732281~102067808~102482433~102539968~102558064~102587591~102605417~102640600~102717421~102732003&amp;u_w=1366&amp;u_h=768&amp;url=https%3A%2F%2Fes.wix.com%2Fwebsite-template%2Fview%2Fhtml%2F1835%3ForiginUrl%3Dhttps%253A%252F%252Fes.wix.com%252Fwebsite%252Ftemplates%253Fcriteria%253Descolar%26tpClick%3Dview_button%26esi%3D7fe8d9d0-99d4-4b27-b29b-f23af96c5901&amp;ref=https%3A%2F%2Fes.wix.com%2Fwebsite%2Ftemplates%2F%3Fcriteria%3Descolar&amp;label=Jza8CKKX8MgBEIX-keAD&amp;hn=www.googleadservices.com&amp;frm=0&amp;tiba=Escuela%20primaria%20plantilla%20web%20%7C%20WIX&amp;oid=null-user-id&amp;value=0&amp;bttype=purchase&amp;npa=0&amp;pscdl=noapi&amp;_tu=Cg&amp;auid=1995047951.1740531855&amp;uaa=x86&amp;uab=64&amp;uafvl=Not(A%253ABrand%3B99.0.0.0%7CGoogle%2520Chrome%3B133.0.6943.142%7CChromium%3B133.0.6943.142&amp;uamb=0&amp;uam=&amp;uap=Windows&amp;uapv=19.0.0&amp;uaw=0&amp;fledge=1&amp;capi=1&amp;ct_cookie_present=0" style="display: none; visibility: hidden;"></iframe><iframe allow="join-ad-interest-group" data-tagging-id="AW-1006927621/bzk8CJTkotIDEIX-keAD" data-load-time="1741103919157" height="0" width="0" src="https://td.doubleclick.net/td/rul/1006927621?random=1741103919137&amp;cv=11&amp;fst=1741103919137&amp;fmt=3&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;gcl_ctr=5&amp;gtm=45be52q0v9133290662z86319694za201zb9123674316&amp;gcs=G111&amp;gcd=13t3t3t3t5l1&amp;dma=0&amp;tag_exp=101732279~101732281~102067808~102482433~102539968~102558064~102587591~102605417~102640600~102717421~102732003&amp;u_w=1366&amp;u_h=768&amp;url=https%3A%2F%2Fes.wix.com%2Fwebsite-template%2Fview%2Fhtml%2F1835%3ForiginUrl%3Dhttps%253A%252F%252Fes.wix.com%252Fwebsite%252Ftemplates%253Fcriteria%253Descolar%26tpClick%3Dview_button%26esi%3D7fe8d9d0-99d4-4b27-b29b-f23af96c5901&amp;ref=https%3A%2F%2Fes.wix.com%2Fwebsite%2Ftemplates%2F%3Fcriteria%3Descolar&amp;label=bzk8CJTkotIDEIX-keAD&amp;hn=www.googleadservices.com&amp;frm=0&amp;tiba=Escuela%20primaria%20plantilla%20web%20%7C%20WIX&amp;value=0&amp;bttype=purchase&amp;npa=0&amp;pscdl=noapi&amp;_tu=Cg&amp;auid=1995047951.1740531855&amp;uaa=x86&amp;uab=64&amp;uafvl=Not(A%253ABrand%3B99.0.0.0%7CGoogle%2520Chrome%3B133.0.6943.142%7CChromium%3B133.0.6943.142&amp;uamb=0&amp;uam=&amp;uap=Windows&amp;uapv=19.0.0&amp;uaw=0&amp;fledge=1&amp;capi=1&amp;ct_cookie_present=0" style="display: none; visibility: hidden;"></iframe><iframe height="0" width="0" src="https://4382365.fls.doubleclick.net/activityi;src=4382365;type=count;cat=websi0;ord=1;num=9868916791077;npa=0;auiddc=1995047951.1740531855;u1=f41c3b87-2eba-45cd-acf0-13a30010fa23;ps=1;pcor=1970378552;uaa=x86;uab=64;uafvl=Not(A%253ABrand%3B99.0.0.0%7CGoogle%2520Chrome%3B133.0.6943.142%7CChromium%3B133.0.6943.142;uamb=0;uam=;uap=Windows;uapv=19.0.0;uaw=0;pscdl=noapi;frm=0;_tu=Kg;gtm=45fe52q0v9190195959z86319694za201zb9123674316;gcs=G111;gcd=13t3t3t3t5l1;dma=0;tag_exp=101732282~101732284~102067808~102482433~102539968~102558064~102587591~102605417~102640600~102717421~102732003;epver=2;~oref=https%3A%2F%2Fes.wix.com%2Fwebsite-template%2Fview%2Fhtml%2F1835%3ForiginUrl%3Dhttps%253A%252F%252Fes.wix.com%252Fwebsite%252Ftemplates%253Fcriteria%253Descolar%26tpClick%3Dview_button%26esi%3D7fe8d9d0-99d4-4b27-b29b-f23af96c5901?" style="display: none; visibility: hidden;"></iframe><iframe allow="join-ad-interest-group" data-tagging-id="DC-4382365/count/websi0+unique" data-load-time="1741103919420" height="0" width="0" src="https://td.doubleclick.net/td/fls/rul/activityi;fledge=1;src=4382365;type=count;cat=websi0;ord=1;num=9868916791077;npa=0;auiddc=1995047951.1740531855;u1=f41c3b87-2eba-45cd-acf0-13a30010fa23;ps=1;pcor=1970378552;uaa=x86;uab=64;uafvl=Not(A%253ABrand%3B99.0.0.0%7CGoogle%2520Chrome%3B133.0.6943.142%7CChromium%3B133.0.6943.142;uamb=0;uam=;uap=Windows;uapv=19.0.0;uaw=0;pscdl=noapi;frm=0;_tu=Kg;gtm=45fe52q0v9190195959z86319694za201zb9123674316;gcs=G111;gcd=13t3t3t3t5l1;dma=0;tag_exp=101732282~101732284~102067808~102482433~102539968~102558064~102587591~102605417~102640600~102717421~102732003;epver=2;~oref=https%3A%2F%2Fes.wix.com%2Fwebsite-template%2Fview%2Fhtml%2F1835%3ForiginUrl%3Dhttps%253A%252F%252Fes.wix.com%252Fwebsite%252Ftemplates%253Fcriteria%253Descolar%26tpClick%3Dview_button%26esi%3D7fe8d9d0-99d4-4b27-b29b-f23af96c5901?" style="display: none; visibility: hidden;"></iframe><iframe allow="join-ad-interest-group" data-tagging-id="AW-1041825691/FYMYCO-T6gMQm__j8AM" data-load-time="1741103919554" height="0" width="0" src="https://td.doubleclick.net/td/rul/1041825691?random=1741103919534&amp;cv=11&amp;fst=1741103919534&amp;fmt=3&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;gtm=45be52q0z86319694za201zb9123674316&amp;gcd=13t3t3t3t5l1&amp;dma=0&amp;tag_exp=101732282~101732284~102067808~102482433~102539968~102558064~102587591~102605417~102640600~102717421~102732003&amp;u_w=1366&amp;u_h=768&amp;url=https%3A%2F%2Fes.wix.com%2Fwebsite-template%2Fview%2Fhtml%2F1835%3ForiginUrl%3Dhttps%253A%252F%252Fes.wix.com%252Fwebsite%252Ftemplates%253Fcriteria%253Descolar%26tpClick%3Dview_button%26esi%3D7fe8d9d0-99d4-4b27-b29b-f23af96c5901&amp;ref=https%3A%2F%2Fes.wix.com%2Fwebsite%2Ftemplates%2F%3Fcriteria%3Descolar&amp;label=FYMYCO-T6gMQm__j8AM&amp;hn=www.googleadservices.com&amp;frm=0&amp;tiba=Escuela%20primaria%20plantilla%20web%20%7C%20WIX&amp;userId=null-user-id&amp;npa=0&amp;pscdl=noapi&amp;_tu=Cg&amp;auid=1995047951.1740531855&amp;uaa=x86&amp;uab=64&amp;uafvl=Not(A%253ABrand%3B99.0.0.0%7CGoogle%2520Chrome%3B133.0.6943.142%7CChromium%3B133.0.6943.142&amp;uamb=0&amp;uam=&amp;uap=Windows&amp;uapv=19.0.0&amp;uaw=0&amp;fledge=1" style="display: none; visibility: hidden;"></iframe><img class="ywa-10000" src="https://sp.analytics.yahoo.com/sp.pl?a=10000&amp;d=Tue%2C%2004%20Mar%202025%2015%3A58%3A39%20GMT&amp;n=4&amp;b=Escuela%20primaria%20plantilla%20web%20%7C%20WIX&amp;.yp=10196208&amp;f=https%3A%2F%2Fes.wix.com%2Fwebsite-template%2Fview%2Fhtml%2F1835%3ForiginUrl%3Dhttps%253A%252F%252Fes.wix.com%252Fwebsite%252Ftemplates%253Fcriteria%253Descolar%26tpClick%3Dview_button%26esi%3D7fe8d9d0-99d4-4b27-b29b-f23af96c5901&amp;e=https%3A%2F%2Fes.wix.com%2Fwebsite%2Ftemplates%2F%3Fcriteria%3Descolar&amp;enc=UTF-8&amp;yv=1.16.6&amp;tagmgr=gtm" alt="dot image pixel" style="display: none;"><div id="batBeacon671795129646" style="width: 0px; height: 0px; display: none; visibility: hidden;"><img id="batBeacon706163295363" width="0" height="0" alt="" src="https://bat.bing.com/action/0?ti=36000948&amp;tm=gtm002&amp;Ver=2&amp;mid=53cedd35-5394-41d4-8045-c7e74bf27e01&amp;bo=1&amp;sid=8a665110f91111efa23c1f9665dbc47a&amp;vid=9ef7b080f3dd11efbda05150e39c2e10&amp;vids=0&amp;msclkid=N&amp;uach=pv%3D19.0.0&amp;pi=918639831&amp;lg=es-ES&amp;sw=1366&amp;sh=768&amp;sc=24&amp;tl=Escuela%20primaria%20plantilla%20web%20%7C%20WIX&amp;p=https%3A%2F%2Fes.wix.com%2Fwebsite-template%2Fview%2Fhtml%2F1835%3ForiginUrl%3Dhttps%253A%252F%252Fes.wix.com%252Fwebsite%252Ftemplates%253Fcriteria%253Descolar%26tpClick%3Dview_button%26esi%3D7fe8d9d0-99d4-4b27-b29b-f23af96c5901&amp;r=https%3A%2F%2Fes.wix.com%2Fwebsite%2Ftemplates%2F%3Fcriteria%3Descolar&amp;lt=3869&amp;evt=pageLoad&amp;sv=1&amp;cdb=AQAQ&amp;rn=641928" style="width: 0px; height: 0px; display: none; visibility: hidden;"></div><div id="monica-content-root" class="monica-widget" style="pointer-events: auto;"></div><iframe allow="join-ad-interest-group" data-tagging-id="AW-1006927621/HDYWCN-OhZQZEIX-keAD" data-load-time="1741103926563" height="0" width="0" src="https://td.doubleclick.net/td/rul/1006927621?random=1741103926554&amp;cv=11&amp;fst=1741103926554&amp;fmt=3&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;gcl_ctr=6&amp;gtm=45be52q0v9133290662z86319694za201zb9123674316&amp;gcs=G111&amp;gcd=13t3t3t3t5l1&amp;dma=0&amp;tag_exp=101732279~101732281~102067808~102482433~102539968~102558064~102587591~102605417~102640600~102717421~102732003&amp;u_w=1366&amp;u_h=768&amp;url=https%3A%2F%2Fes.wix.com%2Fwebsite-template%2Fview%2Fhtml%2F1835%3ForiginUrl%3Dhttps%253A%252F%252Fes.wix.com%252Fwebsite%252Ftemplates%253Fcriteria%253Descolar%26tpClick%3Dview_button%26esi%3D7fe8d9d0-99d4-4b27-b29b-f23af96c5901&amp;ref=https%3A%2F%2Fes.wix.com%2Fwebsite%2Ftemplates%2F%3Fcriteria%3Descolar&amp;label=HDYWCN-OhZQZEIX-keAD&amp;hn=www.googleadservices.com&amp;frm=0&amp;tiba=Escuela%20primaria%20plantilla%20web%20%7C%20WIX&amp;oid=null-user-id&amp;value=0&amp;bttype=purchase&amp;npa=0&amp;pscdl=noapi&amp;_tu=Cg&amp;auid=1995047951.1740531855&amp;uaa=x86&amp;uab=64&amp;uafvl=Not(A%253ABrand%3B99.0.0.0%7CGoogle%2520Chrome%3B133.0.6943.142%7CChromium%3B133.0.6943.142&amp;uamb=0&amp;uam=&amp;uap=Windows&amp;uapv=19.0.0&amp;uaw=0&amp;fledge=1&amp;capi=1&amp;ct_cookie_present=0" style="display: none; visibility: hidden;"></iframe><script type="text/javascript" id="" charset="">var wixUuidForFb=null;try{var _getCookie=function(b){var c="; "+document.cookie;b=c.split("; "+b+"\x3d");if(b.length==2)return b.pop().split(";").shift()};wixUuidForFb=_getCookie("_wixCIDX")}catch(b){}
+typeof fbq==="undefined"&&!function(b,c,f,g,a,d,e){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],d=c.createElement(f),d.async=!0,d.src=g,e=c.getElementsByTagName(f)[0],setTimeout(function(){e.parentNode.insertBefore(d,e)},3E3))}(window,document,"script","//connect.facebook.net/en_US/fbevents.js");fbq("init","704136006388169",{external_id:wixUuidForFb});fbq("trackCustom","EngagedAnon");</script></body><chatgpt-sidebar data-gpts-theme="light"></chatgpt-sidebar><hix-ai-email data-wxt-shadow-root=""></hix-ai-email><hix-ai-docs data-wxt-shadow-root=""></hix-ai-docs><hix-guide data-wxt-shadow-root=""></hix-guide><hix-ai-social data-wxt-shadow-root=""></hix-ai-social><script attributionsrc="" type="text/javascript" async="" src="https://www.googleadservices.com/pagead/conversion/1006927621/?random=1741103919102&amp;cv=11&amp;fst=1741103919102&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;gcl_ctr=4&amp;gtm=45be52q0v9133290662z86319694za201zb9123674316&amp;gcs=G111&amp;gcd=13t3t3t3t5l1&amp;dma=0&amp;tag_exp=101732279~101732281~102067808~102482433~102539968~102558064~102587591~102605417~102640600~102717421~102732003&amp;u_w=1366&amp;u_h=768&amp;url=https%3A%2F%2Fes.wix.com%2Fwebsite-template%2Fview%2Fhtml%2F1835%3ForiginUrl%3Dhttps%253A%252F%252Fes.wix.com%252Fwebsite%252Ftemplates%253Fcriteria%253Descolar%26tpClick%3Dview_button%26esi%3D7fe8d9d0-99d4-4b27-b29b-f23af96c5901&amp;ref=https%3A%2F%2Fes.wix.com%2Fwebsite%2Ftemplates%2F%3Fcriteria%3Descolar&amp;label=Jza8CKKX8MgBEIX-keAD&amp;hn=www.googleadservices.com&amp;frm=0&amp;tiba=Escuela%20primaria%20plantilla%20web%20%7C%20WIX&amp;oid=null-user-id&amp;value=0&amp;bttype=purchase&amp;npa=0&amp;pscdl=noapi&amp;_tu=Cg&amp;auid=1995047951.1740531855&amp;uaa=x86&amp;uab=64&amp;uafvl=Not(A%253ABrand%3B99.0.0.0%7CGoogle%2520Chrome%3B133.0.6943.142%7CChromium%3B133.0.6943.142&amp;uamb=0&amp;uam=&amp;uap=Windows&amp;uapv=19.0.0&amp;uaw=0&amp;fledge=1&amp;capi=1&amp;rfmt=3&amp;fmt=4"></script><script attributionsrc="" type="text/javascript" async="" src="https://www.googleadservices.com/pagead/conversion/1006927621/?random=1741103919137&amp;cv=11&amp;fst=1741103919137&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;gcl_ctr=5&amp;gtm=45be52q0v9133290662z86319694za201zb9123674316&amp;gcs=G111&amp;gcd=13t3t3t3t5l1&amp;dma=0&amp;tag_exp=101732279~101732281~102067808~102482433~102539968~102558064~102587591~102605417~102640600~102717421~102732003&amp;u_w=1366&amp;u_h=768&amp;url=https%3A%2F%2Fes.wix.com%2Fwebsite-template%2Fview%2Fhtml%2F1835%3ForiginUrl%3Dhttps%253A%252F%252Fes.wix.com%252Fwebsite%252Ftemplates%253Fcriteria%253Descolar%26tpClick%3Dview_button%26esi%3D7fe8d9d0-99d4-4b27-b29b-f23af96c5901&amp;ref=https%3A%2F%2Fes.wix.com%2Fwebsite%2Ftemplates%2F%3Fcriteria%3Descolar&amp;label=bzk8CJTkotIDEIX-keAD&amp;hn=www.googleadservices.com&amp;frm=0&amp;tiba=Escuela%20primaria%20plantilla%20web%20%7C%20WIX&amp;value=0&amp;bttype=purchase&amp;npa=0&amp;pscdl=noapi&amp;_tu=Cg&amp;auid=1995047951.1740531855&amp;uaa=x86&amp;uab=64&amp;uafvl=Not(A%253ABrand%3B99.0.0.0%7CGoogle%2520Chrome%3B133.0.6943.142%7CChromium%3B133.0.6943.142&amp;uamb=0&amp;uam=&amp;uap=Windows&amp;uapv=19.0.0&amp;uaw=0&amp;fledge=1&amp;capi=1&amp;rfmt=3&amp;fmt=4"></script><script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/1041825691/?random=1741103919534&amp;cv=11&amp;fst=1741103919534&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;gtm=45be52q0z86319694za201zb9123674316&amp;gcd=13t3t3t3t5l1&amp;dma=0&amp;tag_exp=101732282~101732284~102067808~102482433~102539968~102558064~102587591~102605417~102640600~102717421~102732003&amp;u_w=1366&amp;u_h=768&amp;url=https%3A%2F%2Fes.wix.com%2Fwebsite-template%2Fview%2Fhtml%2F1835%3ForiginUrl%3Dhttps%253A%252F%252Fes.wix.com%252Fwebsite%252Ftemplates%253Fcriteria%253Descolar%26tpClick%3Dview_button%26esi%3D7fe8d9d0-99d4-4b27-b29b-f23af96c5901&amp;ref=https%3A%2F%2Fes.wix.com%2Fwebsite%2Ftemplates%2F%3Fcriteria%3Descolar&amp;label=FYMYCO-T6gMQm__j8AM&amp;hn=www.googleadservices.com&amp;frm=0&amp;tiba=Escuela%20primaria%20plantilla%20web%20%7C%20WIX&amp;userId=null-user-id&amp;npa=0&amp;pscdl=noapi&amp;_tu=Cg&amp;auid=1995047951.1740531855&amp;uaa=x86&amp;uab=64&amp;uafvl=Not(A%253ABrand%3B99.0.0.0%7CGoogle%2520Chrome%3B133.0.6943.142%7CChromium%3B133.0.6943.142&amp;uamb=0&amp;uam=&amp;uap=Windows&amp;uapv=19.0.0&amp;uaw=0&amp;fledge=1&amp;rfmt=3&amp;fmt=4"></script><hix-sidebar-entry data-wxt-shadow-root=""></hix-sidebar-entry><chatgpt-sidebar-popups data-gpts-theme="light"></chatgpt-sidebar-popups><script attributionsrc="" type="text/javascript" async="" src="https://www.googleadservices.com/pagead/conversion/1006927621/?random=1741103926554&amp;cv=11&amp;fst=1741103926554&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;gcl_ctr=6&amp;gtm=45be52q0v9133290662z86319694za201zb9123674316&amp;gcs=G111&amp;gcd=13t3t3t3t5l1&amp;dma=0&amp;tag_exp=101732279~101732281~102067808~102482433~102539968~102558064~102587591~102605417~102640600~102717421~102732003&amp;u_w=1366&amp;u_h=768&amp;url=https%3A%2F%2Fes.wix.com%2Fwebsite-template%2Fview%2Fhtml%2F1835%3ForiginUrl%3Dhttps%253A%252F%252Fes.wix.com%252Fwebsite%252Ftemplates%253Fcriteria%253Descolar%26tpClick%3Dview_button%26esi%3D7fe8d9d0-99d4-4b27-b29b-f23af96c5901&amp;ref=https%3A%2F%2Fes.wix.com%2Fwebsite%2Ftemplates%2F%3Fcriteria%3Descolar&amp;label=HDYWCN-OhZQZEIX-keAD&amp;hn=www.googleadservices.com&amp;frm=0&amp;tiba=Escuela%20primaria%20plantilla%20web%20%7C%20WIX&amp;oid=null-user-id&amp;value=0&amp;bttype=purchase&amp;npa=0&amp;pscdl=noapi&amp;_tu=Cg&amp;auid=1995047951.1740531855&amp;uaa=x86&amp;uab=64&amp;uafvl=Not(A%253ABrand%3B99.0.0.0%7CGoogle%2520Chrome%3B133.0.6943.142%7CChromium%3B133.0.6943.142&amp;uamb=0&amp;uam=&amp;uap=Windows&amp;uapv=19.0.0&amp;uaw=0&amp;fledge=1&amp;capi=1&amp;rfmt=3&amp;fmt=4"></script></html>

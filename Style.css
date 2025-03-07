@@ -1,0 +1,474 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif; 
+    background-color: peachpuff;
+}
+
+.head img{
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 600px;
+    height: 300px;
+}
+
+/* Aqui comeizan los estilos de qienes somos */
+.somos0{
+    margin-top: 35px;
+    border: 3px solid #000000;
+    width: 525px;
+    margin-left: 15px;
+    background-color: #0004d6;
+    box-shadow: 8px 8px #757575;
+}
+
+.somos0 h1{
+    font-size: 50px;
+    margin-left: 30px;
+    color: #fffdfd;
+  }
+
+.somos1{
+    margin-top: 20px;
+    border-left:2px solid #000000;
+    border-right:2px solid #000000;
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}
+
+.somos1 p{
+    margin-left: 10px;
+    
+}
+
+.somos2 h3{
+    margin-top: 20px;
+  margin-left: 10px;
+}
+.somos2 img{
+    margin-left: 10px;
+    width: 300px;
+    height: 300px;
+    
+}
+
+.somos2 p{
+    text-align: justify;
+}
+/* Aqui terminan los estilos de qienes somos */
+    
+/*Estilos de area tecnica */
+
+.alimentacion{
+    width: 300px;
+    height: 300px;
+    border: 3px solid #000000;
+    box-shadow: 8px 8px #797575;
+}
+.tecnico{
+    margin-top: 35px;
+    border: 3px solid #000000;
+    width: 525px;
+    margin-left: 15px;
+    background-color: #0004d6;
+    box-shadow: 8px 8px #757575;
+}
+
+.tecnico h1{
+  font-size: 50px;
+  margin-left: 30px;
+  color: #fffdfd;
+}
+.tecnico_imfo{
+    margin-top: 20px;
+    margin-left: 5px;
+    border: 3px solid #000000;
+    width: 800px;
+    
+}
+
+.tecnico_info img{
+    width: 350px;
+    height: 250px;
+}
+.tecnico_imfo p{
+    font-size: 25px;
+}
+.tecnico_info{
+    margin-top: 10px;
+    margin-left: 15px;  
+}
+.tecnico_info h2{
+    margin-top: 10px;
+}
+.tecnico_info p {
+    margin-right: 40px;
+    margin-left: 4px;
+    margin-top: 3px;
+    text-align: justify;
+}
+.pr_info{
+    border:2px solid #000000;
+    width: 325px;
+    margin-left: 50px;
+}
+.pr_info p{
+    margin-top:10px ;
+    margin-left: 20px;
+    
+}
+.pr_info img{
+    margin-top:10px ;
+    margin-left: 10px;
+    width: 300px;
+    height: 300px;
+}
+
+.ali
+
+/*aqui termina el estilo de area tenica */
+
+/*aquicomienza el estilo actividades */
+
+
+
+.area_actividades img{
+    border: 2px solid #000000;
+    margin-top: 20px;
+    margin-left: 10px;
+    width: 350px;
+    
+}
+.actividades_img img{
+    border: 2px solid #000000;
+    margin-top: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+   height: 450px;
+   width: 300px;
+   box-shadow: 8px 8px  #797575;
+   
+}
+.actividades_img h2{
+    
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.actividades_img p{
+    text-align: justify;
+    margin-top: 3px;
+    margin-bottom: 2px;
+    margin-left: 15px;
+    margin-right: 15px;
+    
+}
+
+.promo img {
+    width: 500px;
+    height: 300px;
+}
+.promo h3{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+/*aqui termina el estilo de actividades */
+/*aqui comienza el estilo del area academica */
+.contenido_academico1{
+    display: flex;
+    justify-content: center;
+}
+.contenido_academico{
+    display: flex;
+   justify-content: center;
+    margin-top: 35px;
+    border: 3px solid #000000;
+    width: 525px;
+    margin-left: 15px;
+    background-color: rgb(253, 184, 255) ;
+    box-shadow: 8px 8px #757575;
+}
+
+.contenido_academico h1{
+    font-size: 50px;
+    margin-left: 10px;
+    margin-right: 10px;
+    color: #000000;
+}
+
+.mate_olimpiada{
+    margin-right: 10px;
+    margin-left: 10px;
+    border-left: 2px solid #000000;
+    border-right: 2px solid #000000 ;
+}
+.mate_olimpiada h1{
+    font-size: 1000ox;
+    margin-left: 30px;
+}
+.mate_olimpiada img{
+    margin-left: 30px;
+    width: 500px;
+    height: 400px;
+}
+
+
+/*aqui termina el estilo de area academica*/
+
+.m-v-v{
+    display:flex ;
+    
+}
+
+.vision {
+    margin-bottom: 20px;
+    background-color: rgb(253, 184, 255) ;
+   margin-left: 10px;
+    width: 400px;
+    height: 250px;
+    border: 3px solid #000000; 
+    border-radius: 5%;
+    box-shadow: 4px 8px #797575;
+    
+   
+}
+
+.vision p{
+  margin-top: 10px;
+  margin-left: 20px;
+  color: rgb(0, 0, 0);
+}
+
+.vision h2{
+  margin-left: 150px;
+  margin-bottom: 0%;
+  color: rgb(0, 0, 0);
+  margin-top: 2px;
+}
+
+.mision{
+    margin-bottom: 20px;
+    background-color: rgb(253, 184, 255) ;
+   margin-left: 10px;
+    width: 400px;
+    height: 250px;
+    border: 3px solid #000000; 
+    border-radius: 5%;
+    box-shadow: 4px 8px #797575;
+}
+
+.mision p {
+    margin-top: 0%;
+    margin-left: 20px;
+    color: rgb(0, 0, 0);
+}
+
+.mision h2 {
+    margin-left: 150px;
+    margin-bottom: 0%;
+    color: rgb(0, 0, 0);
+    margin-top: 2px;
+}
+
+.valores{
+    margin-bottom: 20px;
+    background-color: rgb(253, 184, 255) ;
+    margin-left: 10px;
+     width: 300px;
+     height: 250px;
+     border: 3px solid #000000; 
+     border-radius: 5%;
+     box-shadow: 4px 8px #797575; 
+}
+
+.valores p{
+    margin-top: 5px;
+    margin-left: 75px;
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    
+}
+
+.valores h2{
+    margin-left: 75px;
+    margin-bottom: 0%;
+    color: rgb(0, 0, 0);
+    margin-top: 2px;
+}
+
+.Objetivos li {
+    
+    margin-left: 10px;
+}
+
+.icono{
+    font-size: 10px;
+}
+h1{
+    font-size: 75px;
+}
+
+h2{
+    font-size: 30px;
+}
+
+/*aqui comienza el estilo del container */
+
+header {
+    background-color: #f1bf7c;
+    color: white;
+    padding: 10px 0;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.navbar .logo {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.menu {
+    list-style: none;
+    display: flex;
+}
+
+.menu li {
+    position: relative;
+    margin: 0 15px;
+}
+
+.menu a {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    transition: background-color 0.3s;
+}
+
+.menu a:hover {
+    background-color: #f59494;
+    border-radius: 5px;
+}
+
+.dropdown {
+    display: none;
+    position: absolute;
+    background-color: #dae5f0;
+    list-style: none;
+    padding: 10px 0;
+    margin: 0;
+    border-radius: 5px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+}
+
+.menu li:hover .dropdown {
+    display: block;
+}
+
+.dropdown li {
+    margin: 0;
+}
+
+.dropdown a {
+    padding: 10px 20px;
+    display: block;
+}
+
+.cards {
+    display: flex;
+    justify-content: space-around;
+    max-width: 1200px;
+    margin: 20px auto;
+    padding: 20px;
+}
+
+.card {
+    background-color: white;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 20px;
+    width: 30%;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+}
+
+footer {
+    background-color: #c7ddff;
+    color: rgb(185, 180, 180);
+    text-align: center;
+    padding: 10px 0;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+
+
+
+@media(max-width:991px) {
+
+    .m-v-v{
+        display: inline;
+        left: 50px;
+    }
+
+    .content{
+        min-height: 70px;
+
+    }
+
+    .menu{
+        top: 0;
+        padding: 20px;
+    }
+
+    .menu label {
+        display: initial;
+    }
+
+    .menu .navbar {
+        position: absolute;
+        top: 100%;
+        left: 0;
+        right: 0;
+        background-color:rgb(203, 119, 219); 
+
+        display: none;
+    }
+
+    .menu .navbar ul li {
+        width: 100%;
+    }
+
+
+
+    #menu:checked ~ .navbar {
+        display: initial;
+    }
+
+    footer {
+        background-color: #007BFF; 
+        color: white; 
+        text-align: center; 
+        padding: 10px 0;
+        position: relative; 
+        bottom: 0; 
+        width: 100%; 
+    }
+}
